@@ -1,15 +1,21 @@
-2017-JAN-09:
-
-Completed topics:
-About the content of training and python mem
+Assignments: 2017-JAN-09:
 
 Create git hub public repository, and push some files to that repository
 Read about python features
 
 Assignments on 2017-JAN-10:
 
+Read about datatypes in python 
+Add comments to the cells in the file datatypes.ipynb and push to github repository
+
+Assignments on 2017-JAN-11:
+
+Add comments to the cells in the file printstament, raw_input.ipynb file and push to github repository
+Read string functions
 
 
+Assignments on 2017-JAN-12:
+Add comments to the cells in the file boolean expression.ipynb file and push to github repository
 
 
 1. write a program to findout 
