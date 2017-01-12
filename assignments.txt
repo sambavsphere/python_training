@@ -1,0 +1,51 @@
+2017-JAN-09:
+
+Completed topics:
+About the content of training and python mem
+
+Create git hub public repository, and push some files to that repository
+Read about python features
+
+Assignments on 2017-JAN-10:
+
+
+
+
+
+1. write a program to findout 
+2. write a program to chek given substring is there in actual string or not? (search should be case insensitive)
+3. take a number from the user and check whether even or odd
+4. take a number from the user and check whether it is prime?
+5. take a string from the user and check contains only digits or not?
+6. take a string from the user and check contains only  alphabets or not?
+7. take a string from the user and check contains only  special chars or not?
+8. take a string from the user and check contains only  capiatl letters or not?
+9. take a string from the user and check contains only  small letters or not?
+10. Show the below menu to the user until and until user select quit and display corresponding os message
+
+'''
+Menu:
+1. windows
+2. Linux
+3. Mac
+4. quit
+'''
+
+11. take a string from the user and check contains atleast one digit or not?
+12. take a string from the user and check contains atleast one alphabets or not?
+13. take a string from the user and check contains atleast one chars or not?
+14. take a string from the user and check contains atleast one capital letter or not?
+15. take a string from the user and check contains atleast one small letter or not?
+16. Take the input from the user for(Total number of people, toatl number of busses, Number of seats for bus). Based on the input
+	Deside whether there is sufficient busses or not and give solution for how many extra busses required.
+17. Print the first 100 odd numbers
+18. Determine the factors of a number entered  by the user
+19. Play a number guessing game (User enters a guess, you print YES or Higher or Lower)
+20. Take two numbers from the user a,b check whether a is divisible by b or not?
+21. Given an age, figure out whether someone's a baby, toddler, child, teenager, adult or old codger.
+22. Find the sum of all the multiples of 3 or 5 below 1000
+
+23. Write a program to findout big of two numbers
+24. Write a program to findout biggest number in the given numbers.
+1. findout third occurance of given substring
+2. findout nth occurance of given substring
