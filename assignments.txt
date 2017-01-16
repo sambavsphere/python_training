@@ -55,3 +55,22 @@ Menu:
 24. Write a program to findout biggest number in the given numbers.
 1. findout third occurance of given substring
 2. findout nth occurance of given substring
+
+
+Assigments on 2017-JSN-16
+
+1. Taake some single digit numbers from the user and findout min, maximum, sum, average
+2. WAP> 10 -> 000010
+       100 -> 000100
+      1000 -> 001000
+  2345678  -> 2345678
+3. names  ="emp1,emp2,emp3,emp4" iterate through the employee names
+
+
+
+
+
+ 
+
+
+
