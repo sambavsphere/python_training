@@ -89,6 +89,26 @@ Assigments on 2017-JAN-16
     output: 	111
 		101
 		111
+
+
+Assignments on 2017-JSN-17
+
+51. input: google
+	output: {'g':2,'o':2,'l':1,'e':1} use dictionary comprehension
+52. keys=['k1','k2'], values = ['v1','v2'] form a dictionary.
+53. Sort the list marks = [("mohan", 80), ("satish", 90), ("purnesh", 40), ("venkat", 30)] acording to descending order of marks
+54. write a function to get dynamic list for floating numbers also based on strat and end and step parameters
+55. find out all perfect numbers in given range
+56. WAP to do all stack operations using lists
+57. WAP to do all queue operations using lists
+58. 
+
+
+
+
+
+
+
 mail to: sudhakar.donkena@nexiilabs.com
 
 
