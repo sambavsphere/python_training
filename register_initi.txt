@@ -1,0 +1,4 @@
+Register an existing initiator port on Fibre Channel:
+VPlexcli:/clusters/cluster-1/exports/initiator-ports> register --initiator-port w2k8InitFC --port 0xd1342a|0xd1342b
+Register a new initiator port on SCSI:
+VPlexcli:/clusters/cluster-1/exports/initiator-ports> register --initiator-port w2k8-iscsi-init --port iqn.1991-05.com.emc.vnx.spa

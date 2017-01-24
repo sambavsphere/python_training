@@ -101,7 +101,7 @@ Assignments on 2017-JSN-17
 55. find out all perfect numbers in given range
 56. WAP to do all stack operations using lists
 57. WAP to do all queue operations using lists
-58. 
+58. WAP to remove n occurances of specified element from a list
 
 
 
