@@ -103,12 +103,49 @@ Assignments on 2017-JSN-17
 57. WAP to do all queue operations using lists
 58. WAP to remove n occurances of specified element from a list
 
+Assignments on files: date: 2017-JAN-25
+
+59. copy 1 file content in to another file(Take the source and destination file path from the user)
+60. Show the below menu to the user:
+     1. Add a row
+     2. modify a row
+     3. delete a row
+     Go with one unique field in the file. And maintain that unique constraint in all file modifiction operations
+     Use .CSV file for this program
+
+61. number of lines, words, characters
+62. convert .txt file in .json
+63. Take three columns disease, symptoms, advice in a file and fill the details
+	Ask the user to enter symptoms. Based on this symptoms Suggest the user to what disease it may be and few advices.
+64. Take employees info (id,name, age, adress, sal, height, weight)
+	a. Take id, provide employee information for that id.
+	b. find out average salary.
+	c. find out which age, address taking the heighest salary 
+	d. find out every employee BMI value
+	e. Finally find out the Organization overall BMI
+65.read the file which contains the size greater than your ram size
+66. Read ten gb movie
+67. Collect nexii emp information in a file Provide these operations.
+    
+    Menu:
+     1. Get information information of an employee
+     2. Modify employee information
+     3. delete an employee information (Only status field change in the employee file)
+     4. Add an employee.
+68. Take Source and destination file paths from command line arguments and copy the sourcontent into destination.
+    Make Sure that your program checking the below conditions.
+     1.if the source file not there. Should ask the user to enter new source file or want to quit a program
+     2.if the destination file already there in the specified path. Should warn the user want to proceed or want to enter new destination file name or want to quit
+
+69. Bulk file copy. 
+     Take source and destination file paths from a file and copy the source file content into destination file.
+     Maintain configuration file and put the below fields there
+      Source not found: Skip the copy
+      destination found: skip/replace
+     maintain a remarks log. What are the files skiped from copy because no source file found. What are the files skip/replaced because of destination file foun in the specified path
 
 
-
-
-
-
+ 
 mail to: sudhakar.donkena@nexiilabs.com
 
 
