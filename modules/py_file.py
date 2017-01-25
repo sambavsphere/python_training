@@ -34,6 +34,35 @@ from module1.inside import file3
 from module1 import inside
 print inside.file3.fun()
 '''
-
+'''
 from module1.inside import file3
 print file3.fun()
+'''
+'''
+import sqlite3
+print "sqlite3 imported"
+#import module1
+'''
+'''
+import sys
+print sys.path
+
+
+import f4
+print f4.fun()
+'''
+'''
+import sys
+sys.path.append('C:\Users\samba\Desktop')
+import module1
+'''
+'''
+import sys
+import module1
+sys.path.append('C:\Users\samba\Desktop')
+'''
+import module1
+
+
+
+
