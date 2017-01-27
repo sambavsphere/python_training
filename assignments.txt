@@ -103,7 +103,7 @@ Assignments on 2017-JSN-17
 57. WAP to do all queue operations using lists
 58. WAP to remove n occurances of specified element from a list
 
-Assignments on files: date: 2017-JAN-25
+Done the below assignments using files and database concepts(2017-JAN-25; 2017-JAN-27)
 
 59. copy 1 file content in to another file(Take the source and destination file path from the user)
 60. Show the below menu to the user:
@@ -143,7 +143,6 @@ Assignments on files: date: 2017-JAN-25
       Source not found: Skip the copy
       destination found: skip/replace
      maintain a remarks log. What are the files skiped from copy because no source file found. What are the files skip/replaced because of destination file foun in the specified path
-
 
  
 mail to: sudhakar.donkena@nexiilabs.com
