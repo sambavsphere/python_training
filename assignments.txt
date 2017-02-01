@@ -169,6 +169,7 @@ take the details connect to remote system and operate this menu:
 
 
 72. Migrate the data from one database management system to another database management system
+73. copy data from file to database
 
 
 mail to: sudhakar.donkena@nexiilabs.com
