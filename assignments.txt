@@ -171,6 +171,11 @@ take the details connect to remote system and operate this menu:
 72. Migrate the data from one database management system to another database management system
 73. copy data from file to database
 
+74. WAP to check whether any service running in particular port or not in the host? take host and port number from the user.
+75. WAP to check whether any service running in particular port or not in the host? take host and port number from the database table
+76. WAP to grep the email addresses from the unstructuted data. Take the data from a file or from remote system.
+
+
 
 mail to: sudhakar.donkena@nexiilabs.com
 
