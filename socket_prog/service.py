@@ -7,7 +7,12 @@ try:
 	s.listen(6)
 	print "waiting request"
 	print s.accept()
+except ValueError:
+
 except Exception as err:
 	print err
 finally:
 	s.close()
+
+
+
