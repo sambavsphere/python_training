@@ -1,0 +1,27 @@
+2017-02-08 10:46:50,109->INFO->progra started
+2017-02-08 10:46:50,109->INFO->Program ended
+2017-02-08 10:51:19,740->INFO->progra started
+2017-02-08 10:51:23,094->DEBUG->a=12
+2017-02-08 10:51:23,094->DEBUG->b=6
+2017-02-08 10:51:23,094->DEBUG->result=2.0
+2017-02-08 10:51:23,094->DEBUG->res=2.0
+2017-02-08 10:51:23,094->INFO->Program ended
+2017-02-08 10:51:41,892->INFO->progra started
+2017-02-08 10:51:45,137->DEBUG->a=wer
+2017-02-08 10:51:45,137->DEBUG->b=34
+2017-02-08 10:51:45,137->WARNING-> Given non digits info
+2017-02-08 10:51:45,137->ERROR->could not convert string to float: wer
+Traceback (most recent call last):
+  File "app1.py", line 12, in <module>
+    a=float(a)
+ValueError: could not convert string to float: wer
+2017-02-08 10:52:06,946->INFO->progra started
+2017-02-08 10:52:09,332->DEBUG->a=wer
+2017-02-08 10:52:09,332->DEBUG->b=23
+2017-02-08 10:52:09,332->WARNING-> Given non digits info
+2017-02-08 10:52:09,332->ERROR->could not convert string to float: wer
+Traceback (most recent call last):
+  File "app1.py", line 12, in <module>
+    a=float(a)
+ValueError: could not convert string to float: wer
+2017-02-08 10:52:09,332->INFO->Program ended

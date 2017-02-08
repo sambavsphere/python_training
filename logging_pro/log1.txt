@@ -1,0 +1,26 @@
+WARNING:root:warn msg
+ERROR:root:Exception msg
+None
+ERROR:root:error msg
+INFO:root:***********info msg**************
+DEBUG:root:debug msg
+WARNING:root:warn msg
+ERROR:root:Exception msg
+None
+ERROR:root:error msg
+WARNING:root:warn msg
+ERROR:root:Exception msg
+None
+ERROR:root:error msg
+2017-02-08 10:38:58,427->INFO->***********info msg**************
+2017-02-08 10:38:58,427->DEBUG->debug msg
+2017-02-08 10:38:58,427->WARNING->warn msg
+2017-02-08 10:38:58,427->ERROR->Exception msg
+None
+2017-02-08 10:38:58,427->ERROR->error msg
+2017-02-08 10:42:55,969->INFO->***********info msg**************
+2017-02-08 10:42:55,969->DEBUG->debug msg
+2017-02-08 10:42:55,969->WARNING->warn msg
+2017-02-08 10:42:56,016->ERROR->Exception msg
+None
+2017-02-08 10:42:56,016->ERROR->error msg
